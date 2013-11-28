@@ -3,6 +3,6 @@ Twoogle
 
 Twitter friend recommender
 
-Requirements:
-tweepy
+Requirements:  
+tweepy  
 Twitter authentication keys
